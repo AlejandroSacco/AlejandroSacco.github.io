@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/character.css">
+    <link rel="shortcut icon" href="#">
+    <title>Universo DB</title>
+</head>
+<body>
+    <main>
+        <div>
+            <nav class="navbar navbar-expand-lg" id="navbar">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="index.html">UniversoDB</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li id="db" class="nav-item">
+                                <a class="nav-link">Saga Dragon Ball</a>
+                            </li>
+                            <li id="dbz" class="nav-item">
+                                <a class="nav-link">Saga Dragon Ball Z</a>
+                            </li>
+                            <li id="dbgt" class="nav-item">
+                                <a class="nav-link dbgt">Saga Dragon Ball GT</a>
+                            </li>
+                            <li id="dbs" class="nav-item">
+                                <a class="nav-link dbs">Saga Dragon Ball Super</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Elegir
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Opción 1</a></li>
+                                    <li><a class="dropdown-item" href="#">Opción 2</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Opción 3</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="main">
+            <div class="info">
+                <h1 id="nombre"></h1>
+                <div id="carouselExample" class="carousel slide">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="/img/923252.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/img/Vegetto neon profile.png" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/img/vegito.png" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div>
+                <div class="datos">
+                    <p>*Información del personaje*</p>
+                </div>
+                <div class="desc">
+                    <p>*Descripción del personaje*</p>
+                </div>
+            </div>
+        </div> 
+    </main>
+    <script src="js/character-info.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

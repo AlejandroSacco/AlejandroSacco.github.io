@@ -1,0 +1,38 @@
+[
+    {"titulo": [
+        "Saga Saiyajin", 
+        "Saga Freezer", 
+        "Saga Cell", 
+        "Saga Majin Buu"
+        ]},
+    {"plot": [
+        "Los saiyajin llegan a la tierra.", 
+        "Freezer desea obtener la vida eterna.", 
+        "Cell anhela conseguir su cuerpo perfecto y destruir la tierra.", 
+        "Majin buu siembra el caos por el universo."
+        ]},
+    {"imgs": [
+        "/img/DBZsaiyans.webp",
+        "/img/DBZfreezer.webp",
+        "/img/DBZcell.jpg",
+        "/img/DBZbuu.jpg"
+    ]},
+    {"personajes": [ 
+        [
+            {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+        ],
+        [        
+            {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+            {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+        ]
+    ]}
+]
