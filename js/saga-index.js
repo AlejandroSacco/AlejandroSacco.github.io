@@ -32,7 +32,10 @@ document.getElementById("dbs").addEventListener("click", ()=>{
 
 ////////////////////Get datos////////////////////
 async function getData() {
-    const response = await fetch("jsondata/AllData.json");
+    const response = await fetch("/jsondata/AllData.json",{ headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
+      }});
     const datos = await response.json();
     return datos;
 }
