@@ -1,0 +1,232 @@
+{
+    "db": [
+        {"titulo": [
+            "Saga Pilaf", 
+            "21º Torneo de las artes marciales", 
+            "Saga Patrulla Roja", 
+            "Saga Palacio de Uranai Baba", 
+            "22º Torneo de las artes marciales", 
+            "Saga Pikoro Daimaku", 
+            "23º Torneo de las artes marciales"
+            ]},
+        {"plot": [
+            "El emperador Pilaf quiere obtener las esferas del dragon para ser joven de nuevo.", 
+            "Se celebra la 21º edición del torneo de las artes marciales!", 
+            "La patrulla roja se decide a eliminar a Goku.", 
+            "El radar del dragón detecta una esfera del dragón en el palacio de Uranai Baba.", 
+            "Se celebra la 22º edición del torneo de las artes marciales!", 
+            "Pikoro Daimaku quiere dominar la tierra.", 
+            "Se celebra la 23º edición del torneo de las artes marciales!"
+            ]},
+        {"imgs": [
+            "/img/DBpilaf.jpeg",
+            "/img/DB21torneo.webp",
+            "/img/DBpatrulla.jpeg",
+            "/img/DBbaba.jpg",
+            "/img/DB22torneo.jpeg",
+            "/img/DBpikoro.webp",
+            "/img/DB23torneo.webp"
+        ]},
+        {"personajes": [ 
+            [
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ]
+        ]}
+    ],
+    "dbz": [
+        {"titulo": [
+            "Saga Saiyajin", 
+            "Saga Freezer", 
+            "Saga Cell", 
+            "Saga Majin Buu"
+            ]},
+        {"plot": [
+            "Los saiyajin llegan a la tierra.", 
+            "Freezer desea obtener la vida eterna.", 
+            "Cell anhela conseguir su cuerpo perfecto y destruir la tierra.", 
+            "Majin buu siembra el caos por el universo."
+            ]},
+        {"imgs": [
+            "/img/DBZsaiyans.webp",
+            "/img/DBZfreezer.webp",
+            "/img/DBZcell.jpg",
+            "/img/DBZbuu.jpg"
+        ]},
+        {"personajes": [ 
+            [
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ]
+        ]}
+    ],
+    "dbgt": [
+        {"titulo": [
+            "Saga Esferas del dragón oscuras", 
+            "Saga Baby", 
+            "Saga Super androide nº17", 
+            "Saga Dragones oscuros"
+            ]},
+        {"plot": [
+            "El emperador pilaf desea ser joven de nuevo y este deseo atrapa a Goku. Ahora en un cuerpo infantil, debe solucionar la crisis de las esferas del dragón que ahora están corruptas.", 
+            "Baby, un robot malvado creado por el doctor Myuu es lo último relacionado a la extinta raza Tsufuru, erradicada por los Saiyajin. Ahora, siguiendo el programa de su creador busca venganza contra los simios.", 
+            "El doctor Maki Gero conoce al doctor Myuu en el infierno y juntos crean sus versiones obedientes del androide nº17, quienes luego se fusionan para dar paso al super androide nº17.", 
+            "Las esferas del dragón oscuras liberan al dragón malvado que habitaba en el interior de cada una, ahora Goku y Vegeta deben utilizar el máximo poder del super saiyajin 4 para derrotarlos, pero eso no será suficiente. Kakaroto, haremos la fusión!"
+            ]},
+        {"personajes": [ 
+            [
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ]
+        ]}
+    ],
+    "dbs": [
+        {"titulo": [
+            "Saga Batalla de los dioses", 
+            "Saga Resurrección de Freezer", 
+            "Saga Torneo de Champa", 
+            "Saga Black Goku",
+            "Saga Torneo de poder"
+            ]},
+        {"plot": [
+            "El dios de la destrucción Bills sueña con un tal super saiyajin dios, quien tiene el poder para enfrentarlo en combate. Luego de esta premonición, emprende viaje junto con su ayudante ángel Whis a la tierra para averiguar más sobre este supuesto peleador.", 
+            "Algunos soldados aún leales encuentran la manera de revivir a Freezer con las esferas del dragón. Esta vez, Freezer decide entrenar antes de ir a la tierra para tomar venganza contra Goku, con lo que alcanza su nueva transformación, Golden Freezer", 
+            "Champa, el hermano de Bills organiza un torneo de pelea entre combatientes de su universo y del universo de Bills", 
+            "Zeno-sama decide divertirse anunciando un torneo multiversal, los 12 universos pelearán en una arena todos contra todos."
+            ]},
+        {"personajes": [ 
+            [
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ],
+            [        
+                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+            ]
+        ]}
+    ]
+}
