@@ -13,39 +13,6 @@ body{
     cursor: pointer;    
 }
 
-.info{
-    border-radius: 10px;
-    padding: 1rem 3rem;
-    padding-bottom: 3rem; 
-    margin: auto;
-    width: 50%;
-    height: auto;
-    margin-top: 1rem;
-    text-align: center;
-    background-color: rgb(255, 226, 172);
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-}
-
-.datos{
-    position: absolute;
-    border-radius: 10px;
-    padding: 1rem 3rem;
-    padding-bottom: 3rem; 
-    margin-left: 51%;
-    width: 40%;
-    height: auto;
-    margin-top: 1rem;
-    text-align: center;
-    background-color: rgb(255, 226, 172);
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-}
-
-.info:hover, .desc:hover, .datos:hover{
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
 .imagendiv{
     height: 100%;
     width: 100%;
@@ -57,7 +24,7 @@ body{
     padding: 1rem 3rem;
     padding-bottom: 3rem; 
     margin: auto;
-    width: 50%;
+    width: 80%;
     margin-top: 1rem;
     text-align: center;
     background-color: rgb(255, 226, 172);
@@ -65,29 +32,65 @@ body{
     transition: 0.3s;
 }
 
-.container_menu{
-    display: block;
-    justify-content: center;
-    text-align: center;
-}
-
-.description{
-    margin: auto;
-    margin-bottom: 5%;
-    border-radius: 10px;
-    padding: 1% 2%;
-    width: 60%;
-    margin-top: 2rem;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-}
-
 .innerimg{
-    width: 20%;
+    width: 15%;
+}
+
+.compraImg{
+    width: 60%;
 }
 
 #desc_saga{
     word-wrap: break-word;
+    margin: 5%;
+}
+
+#navs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#mangaList{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#navLeft{
+    float: left;
+}
+
+#navRight{
+    float: right;
+}
+
+#barraAlta{
+    height: 60%;
+    padding: 5%;
+}
+
+#barraBaja{
+    background-color: rgb(71, 21, 21);
+    padding: 5%;
+}
+
+#ultimo{
+    width: 100%;
+}
+
+#comprar{
+    width: 100%;
+}
+
+.prueba{
+    margin: 15px;
+    border-radius: 10px;
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
 }
 
 @media (max-width:480px){

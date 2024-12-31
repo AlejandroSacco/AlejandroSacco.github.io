@@ -1,0 +1,15 @@
+#navbar{
+  background-color: rgb(252, 113, 0);
+}
+
+.nav-item:hover{
+  cursor: pointer;    
+}
+
+.cartItem{
+  display: flex;
+}
+
+.cartImg{
+  width: 10%;
+}

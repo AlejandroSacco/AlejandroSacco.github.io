@@ -27,14 +27,14 @@
             "/img/DBpikoro.webp",
             "/img/DB23torneo.webp"
         ]},
-        {"personajes": [ 
+        {"mangas": [ 
             [
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
+                {"id":"0", "nombre":"Bloomers and the Monkey King", "desc":"Primer tomo de db", "tomo":"1", "img":"/img/DBpikoro.webp"},
+                {"id":"1", "nombre":"No Balls!", "desc":"No hay bolas", "tomo":"1", "img":"/img/DBpikoro.webp"},
+                {"id":"2", "nombre":"Sea Monkeys", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"3", "nombre":"They Call Him... The Turtle Hermit!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"4", "nombre":"Oo! Oo! Oolong!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
+                {"id":"5", "nombre":"So Long, Oolong!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
             ],
             [        
                 {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
@@ -184,8 +184,16 @@
             "El dios de la destrucción Bills sueña con un tal super saiyajin dios, quien tiene el poder para enfrentarlo en combate. Luego de esta premonición, emprende viaje junto con su ayudante ángel Whis a la tierra para averiguar más sobre este supuesto peleador.", 
             "Algunos soldados aún leales encuentran la manera de revivir a Freezer con las esferas del dragón. Esta vez, Freezer decide entrenar antes de ir a la tierra para tomar venganza contra Goku, con lo que alcanza su nueva transformación, Golden Freezer", 
             "Champa, el hermano de Bills organiza un torneo de pelea entre combatientes de su universo y del universo de Bills", 
+            "Zamasu, un aprendiz de kaioshin del universo 6 anhela acabar con los mortales y roba el cuerpo de Goku sembrando el caos en la linea temporal de Trunks.",
             "Zeno-sama decide divertirse anunciando un torneo multiversal, los 12 universos pelearán en una arena todos contra todos."
             ]},
+        {"imgs": [
+                "/img/DBSdioses.jpg",
+                "/img/DBSfreezer.jpg",
+                "/img/DBSchampa.webp",
+                "/img/DBSblack.webp",
+                "/img/DBStp.webp"
+        ]},
         {"personajes": [ 
             [
                 {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},

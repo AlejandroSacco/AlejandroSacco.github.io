@@ -11,3 +11,7 @@ exports.sagaIndexPage = (req, res) =>{
 exports.sagaInfoPage = (req, res) =>{
   res.sendFile(path.join(__dirname, '../public', 'saga-info.html'));
 }
+
+exports.cartPage = (req, res) =>{
+  res.sendFile(path.join(__dirname, '../public', 'cart.html'));
+}

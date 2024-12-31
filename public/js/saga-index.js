@@ -45,12 +45,17 @@ getData().then(data =>{
     nodo.setAttribute("id", "temp");
     menu.appendChild(nodo);
     let upperDiv = document.createElement("div");
-    upperDiv.setAttribute("class", "barraAlta");
-    upperDiv.innerHTML = `<p>Dragon Ball</p>`;
+    upperDiv.setAttribute("id", "barraAlta");
+    upperDiv.innerHTML = `<img class='innerimg' src=${data["db"][3].mangas[0][1].img}>`;
     nodo.appendChild(upperDiv);
     let innerDiv = document.createElement("div");
     innerDiv.setAttribute("class", "barraBaja");
-    innerDiv.innerHTML = `<p>Hola</p>`
+    innerDiv.innerHTML += `<h3>${data["db"][3].mangas[0][1].nombre}</h3>`;
+    innerDiv.innerHTML += `<p>Tomo #${data["db"][3].mangas[0][1].tomo}</p>`;
     nodo.appendChild(innerDiv);
+    let downDiv = document.createElement("div");
+    downDiv.setAttribute('id', 'ultimo');
+    downDiv.innerHTML += `<button id="comprar">comprar</button>`;
+    nodo.appendChild(downDiv);
 })
 //////////////////////////////////////////////////
