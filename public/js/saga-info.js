@@ -26,18 +26,18 @@ getDataDB().then(data =>{
     document.getElementById("desc_saga").innerHTML = data[tempID][1].plot[sagaID];
     for(let i = 0; i < data[tempID][3].mangas[i].length; i++){
         let nodo = document.createElement("div");
-        nodo.setAttribute("class", "prueba");
+        nodo.setAttribute("class", "tomoManga");
         let upperDiv = document.createElement("div");
-        upperDiv.setAttribute("id", "barraAlta");
+        upperDiv.setAttribute("id", "imagenManga");
         upperDiv.innerHTML = `<img class='compraImg' src=${data[tempID][3].mangas[0][i].img}>`;
         nodo.appendChild(upperDiv);
         let innerDiv = document.createElement("div");
-        innerDiv.setAttribute("class", "barraBaja");
+        innerDiv.setAttribute("class", "tituloManga");
         innerDiv.innerHTML += `<h3>${data[tempID][3].mangas[0][i].nombre}</h3>`;
         innerDiv.innerHTML += `<p>Tomo #${data[tempID][3].mangas[0][i].tomo}</p>`;
         nodo.appendChild(innerDiv);
         let downDiv = document.createElement("div");
-        downDiv.setAttribute('id', 'ultimo');
+        downDiv.setAttribute('id', 'compraManga');
         downDiv.innerHTML += `<button id="comprar">comprar</button>`;
         nodo.appendChild(downDiv);
         List.appendChild(nodo);
