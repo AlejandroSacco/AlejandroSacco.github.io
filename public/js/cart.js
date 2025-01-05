@@ -41,7 +41,11 @@ getDataDB().then(data=>{
         });
         document.getElementById("delete"+index).addEventListener('click', ()=>{
             container.removeChild(document.getElementById('item'+index));
-            listaCompraManga.splice(index, index);
+            console.log(index);
+            if(listaCompraManga.length == 1)
+                listaCompraManga = [];
+            else
+                listaCompraManga.splice(index, index);
             localStorage.setItem('listaCompraManga', JSON.stringify(listaCompraManga));
         })
     }); 

@@ -29,3 +29,7 @@
 .cartImg{
   width: 20%;
 }
+
+.fa-minus:hover, .fa-plus:hover{
+  cursor: pointer;
+}
