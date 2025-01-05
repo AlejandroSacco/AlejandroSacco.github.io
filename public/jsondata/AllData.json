@@ -1,90 +1,73 @@
 {
     "db": [
-        {"titulo": [
-            "Saga Pilaf", 
-            "21º Torneo de las artes marciales", 
-            "Saga Patrulla Roja", 
-            "Saga Palacio de Uranai Baba", 
-            "22º Torneo de las artes marciales", 
-            "Saga Pikoro Daimaku", 
-            "23º Torneo de las artes marciales"
-            ]},
-        {"plot": [
-            "El emperador Pilaf quiere obtener las esferas del dragon para ser joven de nuevo.", 
-            "Se celebra la 21º edición del torneo de las artes marciales!", 
-            "La patrulla roja se decide a eliminar a Goku.", 
-            "El radar del dragón detecta una esfera del dragón en el palacio de Uranai Baba.", 
-            "Se celebra la 22º edición del torneo de las artes marciales!", 
-            "Pikoro Daimaku quiere dominar la tierra.", 
-            "Se celebra la 23º edición del torneo de las artes marciales!"
-            ]},
-        {"imgs": [
-            "/img/DBpilaf.jpeg",
-            "/img/DB21torneo.webp",
-            "/img/DBpatrulla.jpeg",
-            "/img/DBbaba.jpg",
-            "/img/DB22torneo.jpeg",
-            "/img/DBpikoro.webp",
-            "/img/DB23torneo.webp"
-        ]},
-        {"mangas": [ 
-            [
-                {"id":"0", "nombre":"Bloomers and the Monkey King", "desc":"Primer tomo de db", "tomo":"1", "img":"/img/DBpikoro.webp"},
-                {"id":"1", "nombre":"No Balls!", "desc":"No hay bolas", "tomo":"1", "img":"/img/DBpikoro.webp"},
-                {"id":"2", "nombre":"Sea Monkeys", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"3", "nombre":"They Call Him... The Turtle Hermit!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"4", "nombre":"Oo! Oo! Oolong!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"5", "nombre":"So Long, Oolong!", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ],
-            [        
-                {"id":"0", "nombre":"Goku", "desc":"Guerrero", "raza":"Saiyajin", "origen":"Planeta Vegita", "powerup":"dame chance", "familia":"unos cuantos"},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""},
-                {"id":"", "nombre":"", "desc":"", "raza":"", "origen":"", "powerup":"", "familia":""}
-            ]
-        ]}
+		{"vol": [
+			{"plot": "Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven 'Dragon Balls'. If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime... ",
+			"img": "/img/vols/dbvol1.webp",
+            "volNum": "1",
+			"mangas": [
+				{"nombre":"Bloomers and the Monkey King", "desc":"Primer tomo de db", "tomo":"1", "img":"/img/tomos/tomo1.webp", "price":"550"},
+                {"nombre":"No Balls!", "desc":"No hay bolas", "tomo":"2", "img":"/img/tomos/tomo2.webp", "price":"550"},
+                {"nombre":"Sea Monkeys", "desc":"", "tomo":"3", "img":"/img/tomos/tomo3.webp", "price":"550"},
+                {"nombre":"They Call Him... The Turtle Hermit!", "desc":"", "tomo":"4", "img":"/img/tomos/tomo4.webp", "price":"550"},
+                {"nombre":"Oo! Oo! Oolong!", "desc":"", "tomo":"5", "img":"/img/tomos/tomo5.webp", "price":"550"},
+                {"nombre":"So Long, Oolong!", "desc":"", "tomo":"6", "img":"/img/tomos/tomo6.webp", "price":"550"},
+                {"nombre":"Yamcha and Pu'ar", "desc":"", "tomo":"7", "img":"/img/tomos/tomo7.webp", "price":"550"},
+                {"nombre":"One, Two, Yamcha-Cha!", "desc":"", "tomo":"8", "img":"/img/tomos/tomo8.webp", "price":"550"},
+                {"nombre":"Dragon Balls in Danger!!", "desc":"", "tomo":"9", "img":"/img/tomos/tomo9.webp", "price":"550"},
+                {"nombre":"Onward to Fry-Pan...", "desc":"", "tomo":"10", "img":"/img/tomos/tomo10.webp", "price":"550"},
+                {"nombre":"...And into the Fire!", "desc":"", "tomo":"11", "img":"/img/tomos/tomo11.webp", "price":"550"}
+			]
+			}
+		]},
+		{"vol": [
+			{"plot": "vol2",
+			"img": "/img/vols/dbvol2.webp",
+            "volNum": "2",
+            "mangas": [
+				{"nombre":"In Search of Kame-Sen'nin", "desc":"Primer tomo de db", "tomo":"12", "img":"/img/tomos/tomo12.webp", "price":"550"},
+                {"nombre":"Fanning the Flame", "desc":"No hay bolas", "tomo":"13", "img":"/img/tomos/tomo13.webp", "price":"550"},
+                {"nombre":"Kame Kame Kame Kame Kame Chameleon", "desc":"", "tomo":"14", "img":"/img/tomos/tomo14.webp", "price":"550"},
+                {"nombre":"At Sixes and Sevens", "desc":"", "tomo":"15", "img":"/img/tomos/tomo15.webp", "price":"550"},
+                {"nombre":"One Goal, One Enemy", "desc":"", "tomo":"16", "img":"/img/tomos/tomo16.webp", "price":"550"},
+                {"nombre":"Carrot Top", "desc":"", "tomo":"17", "img":"/img/tomos/tomo17.webp", "price":"550"},
+                {"nombre":"Who's Got My Balls?!", "desc":"", "tomo":"18", "img":"/img/tomos/tomo18.webp", "price":"550"},
+                {"nombre":"At Last... the Dragon!", "desc":"", "tomo":"19", "img":"/img/tomos/tomo19.webp", "price":"550"},
+                {"nombre":"Just One Wish!!", "desc":"", "tomo":"20", "img":"/img/tomos/tomo20.webp", "price":"550"},
+                {"nombre":"Full Moon", "desc":"", "tomo":"21", "img":"/img/tomos/tomo21.webp", "price":"550"},
+                {"nombre":"The End of the Tale", "desc":"", "tomo":"22", "img":"/img/tomos/tomo22.webp", "price":"550"},
+                {"nombre":"Separate Ways", "desc":"", "tomo":"23", "img":"/img/tomos/tomo23.webp", "price":"550"},
+                {"nombre":"The High Price of Education", "desc":"", "tomo":"24", "img":"/img/tomos/tomo24.webp", "price":"550"}
+			]
+			}
+		]},
+		{"vol": [
+			{"plot": "Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven 'Dragon Balls'. If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime... ",
+			"img": "/img/vols/dbvol3.webp",
+            "volNum": "3",
+            "mangas": [
+				{"nombre":"Bloomers and the Monkey King", "desc":"Primer tomo de db", "tomo":"1", "img":"/img/tomos/tomo1.webp"},
+                {"nombre":"No Balls!", "desc":"No hay bolas", "tomo":"2", "img":"/img/tomos/tomo2.webp"},
+                {"nombre":"Sea Monkeys", "desc":"", "tomo":"3", "img":"/img/tomos/tomo3.webp"},
+                {"nombre":"They Call Him... The Turtle Hermit!", "desc":"", "tomo":"4", "img":"/img/tomos/tomo4.webp"},
+                {"nombre":"Oo! Oo! Oolong!", "desc":"", "tomo":"5", "img":"/img/tomos/tomo5.webp"},
+                {"nombre":"So Long, Oolong!", "desc":"", "tomo":"6", "img":"/img/tomos/tomo6.webp"}
+			]
+			}
+		]},
+		{"vol": [
+			{"plot": "Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven 'Dragon Balls'. If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime... ",
+			"img": "/img/vols/dbvol4.webp",
+            "volNum": "4",
+            "mangas": [
+				{"nombre":"Bloomers and the Monkey King", "desc":"Primer tomo de db", "tomo":"1", "img":"/img/tomos/tomo1.webp"},
+                {"nombre":"No Balls!", "desc":"No hay bolas", "tomo":"2", "img":"/img/tomos/tomo2.webp"},
+                {"nombre":"Sea Monkeys", "desc":"", "tomo":"3", "img":"/img/tomos/tomo3.webp"},
+                {"nombre":"They Call Him... The Turtle Hermit!", "desc":"", "tomo":"4", "img":"/img/tomos/tomo4.webp"},
+                {"nombre":"Oo! Oo! Oolong!", "desc":"", "tomo":"5", "img":"/img/tomos/tomo5.webp"},
+                {"nombre":"So Long, Oolong!", "desc":"", "tomo":"6", "img":"/img/tomos/tomo6.webp"}
+			]
+			}
+		]}
     ],
     "dbz": [
         {"titulo": [

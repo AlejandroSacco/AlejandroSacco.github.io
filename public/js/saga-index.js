@@ -9,7 +9,7 @@ function redirectTemp(id){
 }
 
 function redirectSaga(id){
-    localStorage.setItem("id_saga", id);
+    localStorage.setItem("id_vol", id);
     window.location.href='/saga-info';
 }
 ///////////////////////////////////////////////////
@@ -25,11 +25,11 @@ async function getData() {
 ////////////////////Show datos////////////////////
 getData().then(data =>{
     console.log(data);
-    for(let i = 0; i < data[tempID][0].titulo.length; i++){
+    for(let i = 0; i < data[tempID].length; i++){
         let nodo = document.createElement("div");
         nodo.setAttribute("class", "index");
         nodo.setAttribute("id", `${tempID}${i}`)
-        nodo.innerHTML = `<img class='innerimg' src=${data[tempID][2].imgs[i]}>`;
+        nodo.innerHTML = `<img class='innerimg' src=${data[tempID][i].vol[0].img}>`;
         menu.appendChild(nodo);
         document.getElementById(`${tempID}${i}`).addEventListener("click", ()=>{
             redirectSaga(i);
