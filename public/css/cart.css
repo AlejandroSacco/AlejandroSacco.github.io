@@ -33,3 +33,7 @@
 .fa-minus:hover, .fa-plus:hover{
   cursor: pointer;
 }
+
+#finalizarCompra{
+  width: 94%;
+}

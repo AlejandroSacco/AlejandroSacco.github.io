@@ -1,5 +1,4 @@
-let cart = [];
-let container = document.getElementById('cont');
+let lista = document.getElementById('lista');
 let listaCompraManga = JSON.parse(localStorage.getItem('listaCompraManga')) || [];
 
 async function getDataDB() {
@@ -8,7 +7,15 @@ async function getDataDB() {
 	return datos;
 }
 
+function checkCart(){
+    if(listaCompraManga.length == 0)
+        document.getElementById("finalizarCompra").style.display = "none";
+    else
+        document.getElementById("finalizarCompra").style.display = "initial";
+}
+
 getDataDB().then(data=>{
+    checkCart();
     listaCompraManga.forEach((manga, index) => {
         const mangaData = data[manga.saga][manga.vol].vol[0].mangas.find(m => m.tomo == manga.tomo);
         if (mangaData) {
@@ -24,7 +31,7 @@ getDataDB().then(data=>{
                 <h4 id="price${index}"> ${mangaData.price} $UYU</h4>
                 <button id="delete${index}" type="button" class="btn btn-danger delete"><i class="fa-solid fa-trash"></i></button>
             `;
-            container.appendChild(item);
+            lista.appendChild(item);
         }
     });
     listaCompraManga.forEach((manga, index) => {
@@ -40,13 +47,13 @@ getDataDB().then(data=>{
             }
         });
         document.getElementById("delete"+index).addEventListener('click', ()=>{
-            container.removeChild(document.getElementById('item'+index));
-            console.log(index);
+            lista.removeChild(document.getElementById('item'+index));
             if(listaCompraManga.length == 1)
                 listaCompraManga = [];
             else
                 listaCompraManga.splice(index, index);
             localStorage.setItem('listaCompraManga', JSON.stringify(listaCompraManga));
+            checkCart();
         })
-    }); 
+    });
 });
